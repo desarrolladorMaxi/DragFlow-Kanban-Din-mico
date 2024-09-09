@@ -29,7 +29,7 @@ DragFlow es un tablero Kanban intuitivo y dinámico que permite a los usuarios o
 ## Cómo usar
 
 1. Clona este repositorio o descarga los archivos.
-2. Abre `index.html` en tu navegador web.
+2. Abre tu editor VSCODE usa la extensión Live Server, posicionate en index.html con el boton derecho del mouse toca y usa la primera opcion que aparece open with Live Server.
 3. Para añadir una nueva columna, escribe "add column" en el campo de entrada y presiona Enter o "Add +".
 4. Para añadir una nueva tarea, simplemente escribe el texto de la tarea en el campo de entrada y presiona Enter o "Add +".
 5. Arrastra y suelta las tareas entre las columnas según sea necesario.
