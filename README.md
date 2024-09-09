@@ -1,5 +1,7 @@
 # DragFlow: Kanban Dinámico
 
+![Captura de pantalla 2024-09-09 183754](https://github.com/user-attachments/assets/7c2ee3d6-f924-4584-88aa-46ea66a7b6c2)
+
 DragFlow es un tablero Kanban intuitivo y dinámico que permite a los usuarios organizar sus tareas de manera eficiente mediante una interfaz de arrastrar y soltar.
 
 ## Características
