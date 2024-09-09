@@ -1,0 +1,5 @@
+Este módulo lo que haces es:
+En el input si escribes
+- add column: agrega una columna
+- eliminar + nombreColumna: elimina la columna
+- escribes cualquier cosa: coloca una tarea dragable en inbox
